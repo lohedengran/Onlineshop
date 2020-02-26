@@ -1,10 +1,10 @@
 #site-name {
     background-image: url(../img/background6.jpg);
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     color: white;
     font-size: 300px;
     text-align: center;
-    font-weight: lighter;
+    font-weight: 500
     background-position-x: center;
     opacity: 75%;
 }
@@ -51,9 +51,7 @@ h3 {
     height: auto;
     transition: .5s ease;
     backface-visibility: hidden;
-    border: seagreen;
-    border-width: 2px;
-  }
+     }
   
   .middle {
     transition: .5s ease;
